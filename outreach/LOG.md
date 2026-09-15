@@ -13,6 +13,8 @@ Master tracker for all professor outreach, organized by the date each email was 
 | `No` | Declined / not accepting students / not a fit |
 | `Ghosted` | No response after a reasonable follow-up window (~3-4 weeks, no reply to a follow-up) |
 
+**Note (2026-09-16):** This session has no email-sending connector (Gmail/Outlook/SMTP) connected, so approved emails cannot be dispatched automatically yet. Approved-but-unsent drafts are tracked in `candidates/` with an "APPROVED, NOT YET SENT" marker rather than added here — a row is only added once an email has actually gone out.
+
 ## Log
 
 | Date Sent | Professor | University | Department | Official Email | Research Summary | Funding Confidence | Status | Response Notes |
