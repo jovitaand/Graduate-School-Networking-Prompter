@@ -15,11 +15,11 @@ Master tracker for all professor outreach, organized by the date each email was 
 
 ## Log
 
-| Date Sent | Professor | University | Department | Research Summary | Funding Confidence | Status | Response Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| _none yet_ | | | | | | | |
+| Date Sent | Professor | University | Department | Official Email | Research Summary | Funding Confidence | Status | Response Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| _none yet_ | | | | | | | | |
 
 <!--
 Row template (copy for each new entry, keep newest date at top):
-| YYYY-MM-DD | Dr. [Last Name] | [University] | [Department] | [1-line research focus relevant to Jovita's interests] | HIGH / MEDIUM / LOW | Pending | — |
+| YYYY-MM-DD | Dr. [Last Name] | [University] | [Department] | [official .edu email, verified from faculty/lab page — never guessed] | [1-line research focus relevant to Jovita's interests] | HIGH / MEDIUM / LOW | Pending | — |
 -->
