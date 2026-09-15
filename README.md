@@ -1,1 +1,1 @@
-# Graduate-School-Networking-Prompter
+# Graduate-School-Networking-Tool
