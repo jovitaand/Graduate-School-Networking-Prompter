@@ -16,7 +16,6 @@ Emails Jovita has explicitly approved (YES) that have **not been sent yet**. Not
 | # | Professor | To | Subject | Scheduled (local) | Abu Dhabi | Approved | Source |
 |---|---|---|---|---|---|---|---|
 | 1 | Neda Jahanshad (USC) | njahansh@usc.edu | Prospective Fall 2027 PhD Applicant – Computational Neuroscience | ~~Thu 2026-09-17, 8:00 AM PT~~ **passed; needs new date** | — | 2026-09-16 | `candidates/batch-1-2026-09-15.md` #1 |
-| 2 | Christine Metz (Feinstein/Northwell) | cmetz@northwell.edu | Prospective Fall 2027 PhD Applicant – Endometriosis/PCOS Multi-Omics Research | ~~Mon 2026-09-21, 8:00 AM ET~~ **passed; needs new date** | — | 2026-09-21 | `candidates/batch-1-2026-09-15.md` #5 |
 | 3 | Sheila Shanmugan (Penn) | sheila.shanmugan@pennmedicine.upenn.edu | Prospective Fall 2027 PhD Applicant – Computational Neuroscience | Wed 2026-09-30, 8:00 AM ET | 4:00 PM | 2026-09-23 | `candidates/batch-4-penn-ngg-2026-09-23.md` #1 |
 | 4 | Gregory Corder (Penn) | gcorder@upenn.edu | Prospective Fall 2027 PhD Applicant – Computational Neuroscience | Thu 2026-10-01, 8:00 AM ET | 4:00 PM | 2026-09-23 | `candidates/batch-4-penn-ngg-2026-09-23.md` #2 |
 | 5 | Seema Bhatnagar (Penn/CHOP) | bhatnagars@chop.edu | Prospective Fall 2027 PhD Applicant – Computational Neuroscience | Fri 2026-10-02, 8:00 AM ET | 4:00 PM | 2026-09-23 | `candidates/batch-4-penn-ngg-2026-09-23.md` #3 |
@@ -32,4 +31,4 @@ Notes:
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29.
 
 ## Sent
-_None yet._
+- **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.

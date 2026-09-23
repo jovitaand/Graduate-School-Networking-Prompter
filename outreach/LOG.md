@@ -19,7 +19,7 @@ Master tracker for all professor outreach, organized by the date each email was 
 
 | Date Sent | Professor | University | Department | Official Email | Research Summary | Funding Confidence | Status | Response Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| _none yet_ | | | | | | | | |
+| On or before 2026-09-23 (sent manually by Jovita; exact date not recorded) | Dr. Christine N. Metz | Feinstein Institutes / Northwell Health (Zucker School of Medicine) | Molecular Medicine | cmetz@northwell.edu | ROSE study: single-cell RNA-seq + proteomics of menstrual effluent for endometriosis and PCOS biomarkers | MEDIUM | Pending | — |
 
 <!--
 Row template (copy for each new entry, keep newest date at top):
