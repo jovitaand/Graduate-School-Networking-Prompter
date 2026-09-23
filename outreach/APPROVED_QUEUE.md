@@ -13,7 +13,10 @@ Emails Jovita has explicitly approved (YES) that have **not been sent yet**. Not
 
 ## Gmail drafts (created 2026-09-23)
 
-Drafts now exist in Jovita's Gmail (jovitaandrewsw@gmail.com) for every queued email. **None has the CV attached yet** and none has been sent.
+Drafts now exist in Jovita's Gmail (jovitaandrewsw@gmail.com) for every queued email. None has been sent.
+
+- **Formatting (2026-09-23):** each draft now has an HTML version with bold section labels (Current research, Technical background, Research interest, Why your work, PhD goal). The approved wording is unchanged.
+- **CV: not attached. Jovita must attach it manually.** The connector requires the PDF to be pasted in as base64 text. A test attachment on the Shanmugan draft came out corrupted, so it was removed. Before sending, drag `Resume_Jovita_PhD_2026.pdf` into each draft and check that it opens.
 
 | Professor | Gmail draft ID |
 |---|---|
