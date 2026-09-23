@@ -2,7 +2,7 @@
 
 Emails Jovita has explicitly approved (YES) that have **not been sent yet**. Nothing here has gone out.
 
-**Why they're queued:** the Gmail connector in the original session only had read access (every draft/send attempt returned `Insufficient scope`). Connectors are loaded when a session starts, so Gmail must be reconnected at https://claude.ai/customize/connectors with compose/send/drafts permission and a **new session** started before these can be sent.
+**History:** Gmail originally had read-only access (every draft attempt returned `Insufficient scope`). After Jovita reconnected it, draft creation started working on 2026-09-23.
 
 ## Rules for whoever sends these
 - Send the **exact approved text** from the linked candidate file. Only email-system formatting may change.
@@ -10,6 +10,18 @@ Emails Jovita has explicitly approved (YES) that have **not been sent yet**. Not
 - Send at **8:00 AM in the professor's local time** on the scheduled date.
 - If a scheduled time has already passed, **do not pick a new time yourself**. Ask Jovita for a new send date first.
 - After each send, add a row to `LOG.md` (Status `Pending`), move the entry below to "Sent", and commit.
+
+## Gmail drafts (created 2026-09-23)
+
+Drafts now exist in Jovita's Gmail (jovitaandrewsw@gmail.com) for every queued email. **None has the CV attached yet** and none has been sent.
+
+| Professor | Gmail draft ID |
+|---|---|
+| Jahanshad | r-6773154793358235377 |
+| Shanmugan | r9037505943546523891 |
+| Corder | r-6335545302230780453 |
+| Bhatnagar | r2272896813349266764 |
+| De Jonghe | r-7152000380859652891 |
 
 ## Queue
 
