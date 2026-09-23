@@ -28,7 +28,7 @@ Verification: NIH RePORTER and PubMed were blocked by the network proxy; grant n
 
 ---
 
-### 1. Sheila Shanmugan, MD, PhD (Tier 2)
+### 1. Sheila Shanmugan, MD, PhD (Tier 2) — ✅ APPROVED by Jovita 2026-09-23 for 2026-09-30 8:00 AM ET, NOT YET SENT (see APPROVED_QUEUE.md)
 - **Title:** Assistant Professor of Psychiatry (appointments in OB/GYN and Radiology); Director of Research, Penn Center for Women's Behavioral Wellness; runs the TReNDS Lab
 - **Location:** Philadelphia, PA (Eastern)
 - **Email:** sheila.shanmugan@pennmedicine.upenn.edu (official Penn Psychiatry faculty page)
@@ -59,7 +59,7 @@ Best regards,
 Jovita Andrews
 </details>
 
-### 2. Gregory Corder, PhD (Tier 3: pain circuits)
+### 2. Gregory Corder, PhD (Tier 3: pain circuits) — ✅ APPROVED by Jovita 2026-09-23 for 2026-10-01 8:00 AM ET, NOT YET SENT (see APPROVED_QUEUE.md)
 - **Title:** Associate Professor of Psychiatry (also listed with the Department of Neuroscience)
 - **Location:** Philadelphia, PA (Eastern)
 - **Email:** gcorder@upenn.edu (official BGS/Neuroscience faculty page)
@@ -90,7 +90,7 @@ Best regards,
 Jovita Andrews
 </details>
 
-### 3. Seema Bhatnagar, PhD (Tier 3: chronic stress, sex differences)
+### 3. Seema Bhatnagar, PhD (Tier 3: chronic stress, sex differences) — ✅ APPROVED by Jovita 2026-09-23 for 2026-10-02 8:00 AM ET, NOT YET SENT (see APPROVED_QUEUE.md)
 - **Title:** Anesthesiology and Critical Care; leads the CHOP Stress Neurobiology Program. Penn BGS page says "Professor," CHOP page says "Associate Professor"; confirm before sending.
 - **Location:** Philadelphia, PA (Eastern)
 - **Email:** bhatnagars@email.chop.edu (Penn BGS page); CHOP's page lists bhatnagars@chop.edu
@@ -121,7 +121,7 @@ Best regards,
 Jovita Andrews
 </details>
 
-### 4. Bart C. De Jonghe, PhD (Tier 3: metabolic-brain signaling)
+### 4. Bart C. De Jonghe, PhD (Tier 3: metabolic-brain signaling) — ✅ APPROVED by Jovita 2026-09-23 for 2026-10-05 8:00 AM ET, NOT YET SENT (see APPROVED_QUEUE.md)
 - **Title:** Professor of Nutrition, Department of Biobehavioral Health Sciences, Penn Nursing
 - **Location:** Philadelphia, PA (Eastern)
 - **Email:** bartd@nursing.upenn.edu (BGS page and Penn Nursing profile)
