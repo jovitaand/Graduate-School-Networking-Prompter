@@ -65,9 +65,9 @@ The emails are **not auto-sent**, because the CV cannot be attached through the 
 
 **Status (2026-09-27):** Jovita confirmed that **Jahanshad, Shanmugan, Corder, Bhatnagar and De Jonghe are scheduled in Gmail with the CV attached** for Monday 2026-09-28 at 8:00 AM local time. That is why Gmail no longer lists them as drafts. They keep their original formatting (bold section labels only). They will be logged in `LOG.md` once Jovita confirms they went out.
 
-The 10 Batch 5 drafts (Taylor to Kantarci) are still waiting for the CV and Gmail Schedule send.
+Jovita also confirmed on 2026-09-27 that **all 10 Batch 5 emails (Taylor to Kantarci) are scheduled in Gmail for Monday 2026-09-28**. **All 15 approved emails are now scheduled**, and none has been confirmed as sent yet.
 
-Reminders: Mon 10:00 AM Abu Dhabi (attach CV and schedule) and Mon 8:00 PM Abu Dhabi (confirm sends so they can be logged). The earlier per-date reminders were cancelled.
+Reminder: Mon 8:00 PM Abu Dhabi, to confirm which emails went out so they can be logged. The 10:00 AM reminder was cancelled because everything is already scheduled, and the earlier per-date reminders were cancelled too.
 
 ## Queue (original dates, superseded by the Monday schedule above)
 
