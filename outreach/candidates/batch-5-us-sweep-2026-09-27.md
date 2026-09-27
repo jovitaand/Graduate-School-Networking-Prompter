@@ -1,6 +1,6 @@
 # PhD Outreach Batch 5: New U.S. Sweep (researched 2026-09-27)
 
-Status: **RESEARCH ONLY. Nothing has been sent.** No email goes out without Jovita's explicit YES on that specific draft.
+Status: **All 10 approved and scheduled by Jovita on 2026-09-27** ("schedule all the emails"). Gmail drafts were created with keyword highlighting. **NOT YET SENT.** See `APPROVED_QUEUE.md` for dates and draft IDs.
 
 Scope: a new web and literature sweep for U.S. professors working on her problem statement: **how PCOS and endometriosis affect brain health, studied with computational methods.** The sweep had three parts:
 - Direct PCOS or endometriosis → brain/neurodevelopment work.
