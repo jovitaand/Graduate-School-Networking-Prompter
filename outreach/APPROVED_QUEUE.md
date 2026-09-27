@@ -63,6 +63,8 @@ The emails are **not auto-sent**, because the CV cannot be attached through the 
 | Church (UCLA) | agupta@mednet.ucla.edu | r6313646368871436664 | PDT | 7:00 PM |
 | Correa (UCLA) | stephaniecorrea@ucla.edu | r9186801278038097167 | PDT | 7:00 PM |
 
+**Status check (2026-09-27, ~1:15 PM Abu Dhabi):** when I tried to update the Jahanshad, Shanmugan, Corder, Bhatnagar and De Jonghe drafts, Gmail answered "Message not a draft" for all 5. This means each has been scheduled, sent or deleted in Gmail. They were **not** recreated, to avoid duplicate emails. Waiting for Jovita to confirm what happened to each one before logging them in `LOG.md`.
+
 Reminders: Mon 10:00 AM Abu Dhabi (attach CV and schedule) and Mon 8:00 PM Abu Dhabi (confirm sends so they can be logged). The earlier per-date reminders were cancelled.
 
 ## Queue (original dates, superseded by the Monday schedule above)
