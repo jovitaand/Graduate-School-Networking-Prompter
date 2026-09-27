@@ -43,7 +43,8 @@ Notes:
 ## Awaiting Jovita's decision (packets sent, no YES yet)
 - Batch 1: Jacobs (UCSB), Casaletto (UCSF), Kommagani (Baylor), with packets proposed for 2026-09-21 (passed).
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
-- Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29.
+- Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
+- Batch 5 (researched 2026-09-27): 10 packets, proposed for 2026-10-06 to 2026-10-19. See `candidates/batch-5-us-sweep-2026-09-27.md`.
 
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.
