@@ -38,9 +38,34 @@ Drafts now exist in Jovita's Gmail (jovitaandrewsw@gmail.com) for every queued e
 
 **Batch 5 drafts (created 2026-09-27):** these use keyword highlighting. Besides the bold section labels, key phrases are bolded: degree, role, lab, skills, research interest, the cited finding, funding goal, and "accepting PhD students for Fall 2027". The wording is identical to the packets.
 
-**Reminders:** a one-time reminder fires at 10:00 AM Abu Dhabi the day before each dated send (Penn and Batch 5). Jahanshad has none because she has no date yet. Emails are **not** auto-sent, because the CV cannot be attached through the connector. Jovita attaches the CV and uses Gmail "Schedule send" for the listed time.
 
-## Queue
+## Monday 2026-09-28 schedule (set by Jovita on 2026-09-27)
+
+Jovita asked on 2026-09-27 for **all** approved emails to go out on **Monday 2026-09-28**, each at **8:00 AM in the professor's local time**, with the CV attached. This replaces the earlier spread-out dates below. Jahanshad now has a date too.
+
+The emails are **not auto-sent**, because the CV cannot be attached through the Gmail connector. For each draft, Jovita attaches `Resume_Jovita_PhD_2026.pdf` and uses Gmail **Schedule send** with the Abu Dhabi time below.
+
+| Professor | Email | Draft ID | 8:00 AM local | Abu Dhabi (Mon) |
+|---|---|---|---|---|
+| Shanmugan (Penn) | sheila.shanmugan@pennmedicine.upenn.edu | r9037505943546523891 | EDT | 4:00 PM |
+| Corder (Penn) | gcorder@upenn.edu | r-6335545302230780453 | EDT | 4:00 PM |
+| Bhatnagar (Penn/CHOP) | bhatnagars@chop.edu | r2272896813349266764 | EDT | 4:00 PM |
+| De Jonghe (Penn) | bartd@nursing.upenn.edu | r-7152000380859652891 | EDT | 4:00 PM |
+| Taylor (Yale) | hugh.taylor@yale.edu | r3356746445218718000 | EDT | 4:00 PM |
+| Kahn (NYU) | Linda.Kahn@nyulangone.org | r6677620909064397543 | EDT | 4:00 PM |
+| Tollkuhn (CSHL) | tollkuhn@cshl.edu | r5381755111858171478 | EDT | 4:00 PM |
+| Mielke (Wake Forest) | Michelle.Mielke@wfusm.edu | r5422263701100224349 | EDT | 4:00 PM |
+| Kantarci (Mayo, MN) | kantarci.kejal@mayo.edu | r-8284970108665163383 | CDT | 5:00 PM |
+| Farland (Arizona) | lfarland@arizona.edu | r188973349992987672 | MST (no DST) | 7:00 PM |
+| Jahanshad (USC) | njahansh@usc.edu | r-6773154793358235377 | PDT | 7:00 PM |
+| Herting (USC) | herting@usc.edu | r-2656741137213644653 | PDT | 7:00 PM |
+| Petersen (UCLA) | npetersen@ucla.edu | r2632759733767841163 | PDT | 7:00 PM |
+| Church (UCLA) | agupta@mednet.ucla.edu | r6313646368871436664 | PDT | 7:00 PM |
+| Correa (UCLA) | stephaniecorrea@ucla.edu | r9186801278038097167 | PDT | 7:00 PM |
+
+Reminders: Mon 10:00 AM Abu Dhabi (attach CV and schedule) and Mon 8:00 PM Abu Dhabi (confirm sends so they can be logged). The earlier per-date reminders were cancelled.
+
+## Queue (original dates, superseded by the Monday schedule above)
 
 | # | Professor | To | Subject | Scheduled (local) | Abu Dhabi | Approved | Source |
 |---|---|---|---|---|---|---|---|
