@@ -95,12 +95,31 @@ Notes:
 - Bhatnagar: CHOP's page lists bhatnagars@chop.edu; her Penn BGS page lists bhatnagars@email.chop.edu (likely the same inbox).
 - The Penn subject line was not part of the approval packets (packets covered body text only). Confirm with Jovita if she wants a different subject.
 
+## Batch 6 (approved and drafted 2026-09-30; not yet scheduled or sent)
+
+Jovita asked to "highlight the important keywords and draft all the emails in gmail" right after receiving all 9 packets, so all 9 are treated as approved. The Gmail drafts use the same keyword bolding as Batch 5. The CV is **not attached** and needs to be added by Jovita.
+
+Proposed send: **Mon 2026-10-05, 8:00 AM local time**. Jovita has not yet confirmed a date.
+
+| Professor | Email | Draft ID | 8:00 AM local | Abu Dhabi (Mon Oct 5) |
+|---|---|---|---|---|
+| Stevens (Emory) | jennifer.stevens@emory.edu | r7142012254724634176 | EDT | 4:00 PM |
+| Goldstein (Harvard/MGH) | jill_goldstein@hms.harvard.edu | r-6358161014067575713 | EDT | 4:00 PM |
+| Shansky (Northeastern) | r.shansky@northeastern.edu | r-9111994840096380054 | EDT | 4:00 PM |
+| Hellman (UChicago) | kevin.hellman@endeavorhealth.org | r-2058771657136860669 | CDT | 5:00 PM |
+| Gore (UT Austin) | andrea.gore@austin.utexas.edu | r8284844805872823769 | CDT | 5:00 PM |
+| Barch (WashU) | dbarch@wustl.edu | r7692570867869571479 | CDT | 5:00 PM |
+| Ingraham (UCSF) | Holly.Ingraham@ucsf.edu | r5667408105532076626 | PDT | 7:00 PM |
+| Shah (Stanford) | nirao@stanford.edu | r6583482288538359202 | PDT | 7:00 PM |
+| Yang (UCLA) | xyang123@ucla.edu | r-6364422619493048796 | PDT | 7:00 PM |
+
+Check before sending: Hellman's, Ingraham's and Shah's addresses come from a lab site or papers, not a faculty page. Yang would be the 4th UCLA contact, in the same department as Correa; consider holding her.
+
 ## Awaiting Jovita's decision (packets sent, no YES yet)
 - Batch 1: Jacobs (UCSB), Casaletto (UCSF), Kommagani (Baylor), with packets proposed for 2026-09-21 (passed).
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
-- Batch 6 (researched 2026-09-30): 9 candidates, packets not yet generated. See `candidates/batch-6-us-sweep-2026-09-30.md`.
 
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.
