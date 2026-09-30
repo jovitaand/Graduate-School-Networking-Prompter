@@ -100,5 +100,7 @@ Notes:
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
+- Batch 6 (researched 2026-09-30): 9 candidates, packets not yet generated. See `candidates/batch-6-us-sweep-2026-09-30.md`.
+
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.
