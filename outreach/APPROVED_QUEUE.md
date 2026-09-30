@@ -113,6 +113,8 @@ Proposed send: **Mon 2026-10-05, 8:00 AM local time**. Jovita has not yet confir
 | Shah (Stanford) | nirao@stanford.edu | r6583482288538359202 | PDT | 7:00 PM |
 | Yang (UCLA) | xyang123@ucla.edu | r-6364422619493048796 | PDT | 7:00 PM |
 
+Reminders (set 2026-09-30): Sun 2026-10-04 at 10:00 AM Abu Dhabi (all 9 due the next day; attach CV and Schedule send), and Mon 2026-10-05 at 8:00 PM Abu Dhabi (confirm sends so they can be logged).
+
 Check before sending: Hellman's, Ingraham's and Shah's addresses come from a lab site or papers, not a faculty page. Yang would be the 4th UCLA contact, in the same department as Correa; consider holding her.
 
 ## Awaiting Jovita's decision (packets sent, no YES yet)
