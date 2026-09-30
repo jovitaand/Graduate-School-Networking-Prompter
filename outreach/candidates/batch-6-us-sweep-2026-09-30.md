@@ -20,7 +20,7 @@ Verification: emails and titles come from official university, hospital or lab p
 | # | Professor | University | Tier | Funding | Watch out for |
 |---|---|---|---|---|---|
 | 1 | Kevin Hellman | UChicago / Endeavor Health | 1 (menstrual pain, pelvic pain, brain) | MEDIUM | Research-track post; co-author with Harte (Batch 3) |
-| 2 | Holly Ingraham | UCSF | 2, near 1 (estrogen brain circuits; sex differences in visceral pain) | HIGH | 4th UCSF contact; co-author with Tollkuhn (already emailed) |
+| 2 | Holly Ingraham | UCSF | 2, near 1 (estrogen brain circuits; sex differences in visceral pain) | HIGH | 4th UCSF contact; co-author with Tollkuhn (scheduled 9/28) |
 | 3 | Jennifer Stevens | Emory | 2 (estradiol, amygdala, women's stress risk) | HIGH | Trauma/PTSD focus, not PCOS |
 | 4 | Jill Goldstein | Harvard / MGH | 2 (prenatal hormone/immune programming of brain sex differences) | HIGH | Hospital-based; PhD route not confirmed |
 | 5 | Nirao Shah | Stanford | 2 (estrogen-receptor neurons, estrous-cycle gene expression) | HIGH | Email from papers, not a profile page |
