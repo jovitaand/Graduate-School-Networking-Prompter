@@ -123,5 +123,7 @@ Check before sending: Hellman's, Ingraham's and Shah's addresses come from a lab
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
 
+- Batch 7 (researched 2026-10-01): Tory Eisenlohr-Moul (UChicago), temo@uchicago.edu. Research and draft only, packet not yet generated. See `candidates/batch-7-eisenlohr-moul-2026-10-01.md`.
+
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.
