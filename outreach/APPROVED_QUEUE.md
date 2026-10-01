@@ -117,13 +117,21 @@ Reminders (set 2026-09-30): Sun 2026-10-04 at 10:00 AM Abu Dhabi (all 9 due the 
 
 Check before sending: Hellman's, Ingraham's and Shah's addresses come from a lab site or papers, not a faculty page. Yang would be the 4th UCLA contact, in the same department as Correa; consider holding her.
 
+## Batch 7 (approved and drafted 2026-10-01; not yet scheduled or sent)
+
+Jovita asked to "highlight the important keywords and draft it in the email" right after receiving the packet, so it is treated as approved. The Gmail draft has keyword bolding, but **the CV is not attached**: the Gmail connector cannot attach it reliably, so Jovita must attach `Resume_Jovita_PhD_2026.pdf` herself.
+
+| Professor | Email | Draft ID | Proposed send | Abu Dhabi |
+|---|---|---|---|---|
+| Tory Eisenlohr-Moul (UChicago) | temo@uchicago.edu | r8765847734917375523 | Mon 2026-10-05, 8:00 AM CDT (not yet confirmed by Jovita) | 5:00 PM |
+
+Use temo@uchicago.edu, not her old UIC address (temo@uic.edu). Source: `candidates/batch-7-eisenlohr-moul-2026-10-01.md`. No reminder is set yet. Her time slot is covered by the Batch 6 reminders only if Jovita sends her the same day.
+
 ## Awaiting Jovita's decision (packets sent, no YES yet)
 - Batch 1: Jacobs (UCSB), Casaletto (UCSF), Kommagani (Baylor), with packets proposed for 2026-09-21 (passed).
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
-
-- Batch 7 (researched 2026-10-01): Tory Eisenlohr-Moul (UChicago), temo@uchicago.edu. Research and draft only, packet not yet generated. See `candidates/batch-7-eisenlohr-moul-2026-10-01.md`.
 
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.

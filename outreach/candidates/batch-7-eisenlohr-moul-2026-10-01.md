@@ -1,6 +1,6 @@
 # PhD Outreach Batch 7: Tory Eisenlohr-Moul (researched 2026-10-01)
 
-Status: **RESEARCH ONLY. Nothing has been sent or drafted in Gmail.** Added at Jovita's request (she asked for this professor's email address). No email goes out without Jovita's explicit YES.
+Status: **Approved and drafted in Gmail on 2026-10-01 (keyword bolding, no CV attached). NOT YET SCHEDULED OR SENT.** Added at Jovita's request (she asked for this professor's email address). No email goes out without Jovita's explicit YES.
 
 Earlier note: Batch 3 listed her under "Checked and dropped" ("clinical rather than computational"). She is included now because Jovita asked for her.
 
