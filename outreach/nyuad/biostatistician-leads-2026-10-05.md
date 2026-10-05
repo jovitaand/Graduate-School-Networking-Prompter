@@ -61,3 +61,18 @@ How this list was built:
 - **Your current PI and center.** You work at CBH under Dipesh Chaudhury. He is not on this list. Rokers, Sreenivasan, Melcher and Abdullah are in the same center, so an email to them may reach people who know your PI. Decide whether you want that.
 - **No email has been drafted.** Each PI would need a short, individual note (your CV, your current role and a specific question about funded headcount).
 - **Repo is public.** This shortlist contains official work emails of NYUAD faculty. If you'd rather not publish them, make the repository private in GitHub settings, or tell me to remove this file.
+
+---
+
+## Gmail drafts for the top four (created 2026-10-05; NOT SENT)
+
+These are job inquiries, not PhD outreach. They attach Jovita's **regular job resume** (not `Resume_Jovita_PhD_2026.pdf`). The resume is not in this repo and was not uploaded to the session, so Jovita must attach it herself. Wording uses only facts from her approved emails (current role, degree, skills and analysis work), with keyword bolding.
+
+| Lead | Email | Subject | Draft ID |
+|---|---|---|---|
+| Idaghdour | youssef.idaghdour@nyu.edu | Biostatistician inquiry – Public Health Research Center and genomics projects | r-2599587147916238998 |
+| Sadler Edepli | kirsten.edepli@nyu.edu | Biostatistician inquiry – liver aging and omics research | r3823527539372543493 |
+| Rokers | rokers@nyu.edu | Biostatistician inquiry – Center for Brain and Health projects | r3754575269072938286 |
+| Sreenivasan | kks4@nyu.edu | Biostatistician inquiry – neuroimaging and working-memory research | r4203436055221468225 |
+
+No send date has been set. Rokers and Sreenivasan are in Jovita's own center (see Cautions above).
