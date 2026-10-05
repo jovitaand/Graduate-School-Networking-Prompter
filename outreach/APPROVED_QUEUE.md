@@ -127,13 +127,25 @@ Jovita asked to "highlight the important keywords and draft it in the email" rig
 
 Use temo@uchicago.edu, not her old UIC address (temo@uic.edu). Source: `candidates/batch-7-eisenlohr-moul-2026-10-01.md`. No reminder is set yet. Her time slot is covered by the Batch 6 reminders only if Jovita sends her the same day.
 
+## Batch 8 (approved and drafted 2026-10-05; not yet scheduled or sent)
+
+Jovita replied "yes" to the three Batch 8 packets, so all three are treated as approved. The Gmail drafts have keyword bolding. **The CV is not attached**: the Gmail connector cannot attach it reliably, so Jovita must attach `Resume_Jovita_PhD_2026.pdf` herself and use Schedule send.
+
+Proposed send: **Mon 2026-10-12, 8:00 AM EDT = 4:00 PM Abu Dhabi** (all three are Eastern). Jovita has not yet confirmed a date. No reminder is set.
+
+| Professor | Email | Draft ID |
+|---|---|---|
+| Anna Konova (Rutgers) | anna.konova@rutgers.edu | r8298842615905798960 |
+| Marija Kundakovic (Fordham) | mkundakovic@fordham.edu | r-2689456354344245832 |
+| Ioana Carcea (Rutgers NJMS) | ioana.carcea@rutgers.edu | r-4678462658070038762 |
+
+Source: `candidates/batch-8-rutgers-fordham-2026-10-05.md`. Not verified: PhD program route and international-student funding for all three, and grant numbers.
+
 ## Awaiting Jovita's decision (packets sent, no YES yet)
 - Batch 1: Jacobs (UCSB), Casaletto (UCSF), Kommagani (Baylor), with packets proposed for 2026-09-21 (passed).
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
-
-- Batch 8 (researched 2026-10-05): Konova and Carcea (Rutgers), Kundakovic (Fordham). Packets not yet generated. See `candidates/batch-8-rutgers-fordham-2026-10-05.md`.
 
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.

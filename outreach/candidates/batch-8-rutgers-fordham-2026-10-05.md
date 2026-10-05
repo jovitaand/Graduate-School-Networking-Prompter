@@ -1,6 +1,6 @@
 # PhD Outreach Batch 8: New U.S. advisors (researched 2026-10-05)
 
-Status: **RESEARCH ONLY. Nothing has been sent or drafted in Gmail.** No email goes out without Jovita's explicit YES on that specific draft.
+Status: **All 3 approved by Jovita on 2026-10-05 and drafted in Gmail (keyword bolding, no CV attached). NOT YET SCHEDULED OR SENT.** See `APPROVED_QUEUE.md` for draft IDs.
 
 Scope: new PhD advisors for **how PCOS and endometriosis affect brain health, studied computationally**, found through the Rutgers Women's Brain Health Initiative, a lab announcement of a new NIH grant, and the paper index. None appear in Batches 1–7.
 
