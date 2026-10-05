@@ -76,3 +76,25 @@ These are job inquiries, not PhD outreach. They attach Jovita's **regular job re
 | Sreenivasan | kks4@nyu.edu | Biostatistician inquiry – neuroimaging and working-memory research | r4203436055221468225 |
 
 No send date has been set. Rokers and Sreenivasan are in Jovita's own center (see Cautions above).
+
+## Gmail drafts for the other leads (created 2026-10-05; NOT SENT)
+
+Same rules as above: job inquiries, regular job resume to be attached by Jovita, keyword bolding, only facts from her approved emails. Not drafted on purpose: Fabio Piano (Vice Chancellor) and Sehamuddin Galadari (Research Institute director), because a cold job inquiry to them seemed inappropriate; Djellel Difallah, because his post is in computer science (weak fit).
+
+| Lead | To | Subject | Draft ID |
+|---|---|---|---|
+| Jha | jhaar@nyu.edu | Biostatistician inquiry – population genomics and microbiome research | r597386037174529457 |
+| Al-Sayegh | ma3803@nyu.edu | Biostatistician inquiry – adipose tissue and sequencing research | r-1829690689106068591 |
+| Abdullah | osama.abdullah@nyu.edu | Question about biostatistics needs in Center for Brain and Health projects | r-3996516075012894719 |
+| Percipalle | pp69@nyu.edu | Biostatistician inquiry – Biology research and funded roles | r-933715900437880486 |
+| Melcher | david.melcher@nyu.edu | Biostatistician inquiry – cognitive neuroscience research | r-2814076318952525410 |
+| Ramadi | kramadi@nyu.edu | Biostatistician inquiry – neuroengineering and translational medicine | r-2960994722265220329 |
+| Wang | ok2108@nyu.edu | Question about the Associate Research Scientist opening in Biology | r422788511882880492 |
+| Shamout (cc Salam) | fs999@nyu.edu; cc hanan.salam@nyu.edu | Question about the CIDSAI Junior Research Scientist opening | r-941551402738930140 |
+| Youssef | yp27@nyu.edu | Question about CIDSAI research positions | r-469771408297031069 |
+| Public Health Research Center (Ali, Abdulle) | nyuad.phrc@nyu.edu | Biostatistician inquiry – Public Health Research Center | r-4986933796521658621 |
+
+Notes:
+- The Wang, Shamout and Youssef emails refer to openings listed on NYUAD's careers pages when scraped on 2026-10-05. Those are research scientist or postdoc posts, and their requirements were not checked. Check each posting is still open and that an MS is acceptable before sending.
+- Melcher and Abdullah are in Jovita's own center (see Cautions above).
+- The PHRC email goes to the center's general inbox, which is listed for data-access requests. It is a fallback because no individual emails for Ali or Abdulle were found on official pages.
