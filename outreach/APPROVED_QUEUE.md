@@ -133,5 +133,7 @@ Use temo@uchicago.edu, not her old UIC address (temo@uic.edu). Source: `candidat
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
 
 
+- Batch 8 (researched 2026-10-05): Konova and Carcea (Rutgers), Kundakovic (Fordham). Packets not yet generated. See `candidates/batch-8-rutgers-fordham-2026-10-05.md`.
+
 ## Sent
 - **Christine Metz** (Feinstein/Northwell), cmetz@northwell.edu: sent manually by Jovita on or before 2026-09-23 (exact date not recorded). Logged in `LOG.md`.
