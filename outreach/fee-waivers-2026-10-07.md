@@ -1,6 +1,6 @@
 # Application fee waiver requests (researched 2026-10-07)
 
-Status: **Three Gmail drafts created (Emory, UCSB, ASU faculty). NOT SENT.** No email goes out without Jovita's explicit YES. Stated reason, as requested by Jovita: geopolitical situation where she is located (Abu Dhabi).
+Status: **Four Gmail drafts created (Emory, UCSB, two ASU faculty). NOT SENT.** No email goes out without Jovita's explicit YES. Stated reason, as requested by Jovita: geopolitical situation where she is located (Abu Dhabi).
 
 Each school's official page was read on 2026-10-07. The fee waiver rules differ a lot, and for UChicago and UCSF an email is the wrong channel.
 
@@ -15,3 +15,5 @@ Each school's official page was read on 2026-10-07. The fee waiver rules differ 
 Fees (for reference): Emory $75; UChicago PhD $90; UCSF $140 international; ASU $115 or $120 on a nonimmigrant visa in the U.S., $70 or $75 otherwise.
 
 Sources: gs.emory.edu/admissions/fee-waivers.html; graddiv.ucsb.edu fee waiver page; socialsciences.uchicago.edu/admissions/application-materials/application-fee; graduate.ucsf.edu/admission/application-fee-waivers; sols.asu.edu/admission/graduate/faq.
+
+ASU second faculty email (2026-10-07): Noah Snyder-Mackler, Professor and Associate Director, Research, School of Life Sciences, `nsnyderm@asu.edu` (official ASU profile; also on the ASU Neuroscience PhD graduate faculty list). His lab combines high-throughput genomics with bioinformatic and statistical tools to study how environment and age alter molecular regulation (primates and dogs). Gmail draft r4984929901519937768, NOT SENT. Fit is through omics methods, not PCOS or endometriosis.
