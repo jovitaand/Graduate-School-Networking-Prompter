@@ -1,8 +1,8 @@
 # Application fee waiver requests (researched 2026-10-07)
 
-Status: **Two Gmail drafts created (Emory, UCSB). NOT SENT.** No email goes out without Jovita's explicit YES. Stated reason, as requested by Jovita: geopolitical situation where she is located (Abu Dhabi).
+Status: **Three Gmail drafts created (Emory, UCSB, ASU faculty). NOT SENT.** No email goes out without Jovita's explicit YES. Stated reason, as requested by Jovita: geopolitical situation where she is located (Abu Dhabi).
 
-Each school's official page was read on 2026-10-07. The fee waiver rules differ a lot, and for three of the five an email is the wrong channel.
+Each school's official page was read on 2026-10-07. The fee waiver rules differ a lot, and for UChicago and UCSF an email is the wrong channel.
 
 | Program | Official rule for international applicants | Email drafted? |
 |---|---|---|
