@@ -30,3 +30,16 @@ Jovita Andrews
 ## Before submitting
 - Use your full legal name, as on your documents. Documents must be dated within the last 12 months and in English (certified translation if not).
 - Do not state anything about your finances that your documents do not show. The two bracketed sentences are yours to fill in or remove.
+
+## Webinars that fit a PhD applicant (from the official events page, read 2026-10-07; times are U.S. Central)
+Register at https://socialsciences.uchicago.edu/admissions/connect-us/admissions-webinar. The page does not say which sessions hand out a code; ask at the session.
+
+| Event | Central | Abu Dhabi |
+|---|---|---|
+| Application Drop-in | Tue 2026-10-13, 11:00 AM CDT | 8:00 PM |
+| Crafting a Competitive PhD Application | Thu 2026-10-22, 11:00 AM CDT | 8:00 PM |
+| Application Drop-in | Tue 2026-11-10, 11:00 AM CST | 9:00 PM |
+| Crafting a Competitive PhD Application | Mon 2026-11-16, 1:00 PM CST | 11:00 PM |
+| Application Drop-in | Tue 2026-11-17, 11:00 AM CST | 9:00 PM |
+
+The "MA" sessions (MAPSS, MACSS, CIR, MAE) are for master's programs, not your PhD.
