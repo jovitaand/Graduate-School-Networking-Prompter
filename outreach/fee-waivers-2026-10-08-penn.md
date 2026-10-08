@@ -7,3 +7,6 @@
 - Funding: all NGG students receive fellowships covering tuition, fees and stipend ($49,000 for 2026-27, per the BGS Student Funding page).
 - Contacts: NGG admissions questions, Mariel Featherstone, Mariel.Featherstone@Pennmedicine.upenn.edu; BGS admissions coordinator, bgs@pennmedicine.upenn.edu.
 - No email drafted. Penn professors already queued: see `APPROVED_QUEUE.md` (Shanmugan, Corder, Bhatnagar, De Jonghe).
+
+## Gmail draft (2026-10-08): NOT SENT
+To Mariel Featherstone, NGG admissions contact: `Mariel.Featherstone@Pennmedicine.upenn.edu` (address from the official NGG Admissions page). Subject: "Question about Fall 2027 Applications – Neuroscience Graduate Group". Draft ID r-8175691855559956112. Asks (1) whether the fellowship covers international students, (2) guidance on contacting NGG faculty before applying, (3) any international-applicant requirements. No CV attached (not requested); no fee question, since BGS has no application fee.
