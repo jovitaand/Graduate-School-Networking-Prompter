@@ -145,6 +145,7 @@ Source: `candidates/batch-8-rutgers-fordham-2026-10-05.md`. Not verified: PhD pr
 - Batch 1: Jacobs (UCSB), Casaletto (UCSF), Kommagani (Baylor), with packets proposed for 2026-09-21 (passed).
 - Batch 2: Tronson (Michigan), with packet proposed for 2026-09-22 (passed).
 - Batch 3: all 16 packets, proposed for 2026-09-24 to 2026-09-29 (passed; need new dates).
+- Batch 9 (Johns Hopkins Neuroscience): Maynard, Stein-O'Brien, Blackshaw, Kim, Karigo. Packets in `candidates/batch-9-johns-hopkins-neuroscience-2026-10-11.md`; proposed Mon 2026-10-19, 8:00 AM EDT. No drafts yet.
 
 
 ## Sent
