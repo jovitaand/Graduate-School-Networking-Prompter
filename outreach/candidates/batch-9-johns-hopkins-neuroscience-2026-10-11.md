@@ -1,6 +1,14 @@
 # PhD Outreach Batch 9: Johns Hopkins Neuroscience Training Program (researched 2026-10-11)
 
-Status: **Packets only. No Gmail drafts yet. Awaiting Jovita's YES.** No email goes out without an explicit YES from Jovita.
+Status: **Maynard and Stein-O'Brien approved and drafted in Gmail on 2026-10-11 (keyword bolding, no CV attached, NOT SENT). Blackshaw, Kim and Karigo: packets only, awaiting a YES.** No email goes out without an explicit YES from Jovita.
+
+Drafts (the first two packets were changed at Jovita's request: added "I am also working on single-cell data analysis at Khalifa University's Center for Biotechnology" to Current research, and "single-cell data analysis" to Technical background; the CV does not mention Khalifa, so update the CV before attaching):
+| Professor | Gmail draft ID |
+|---|---|
+| Kristen Maynard (Kristen.maynard@libd.org) | r-5281017934614485694 |
+| Genevieve Stein-O'Brien (gsteinobrien@jhmi.edu) | r5286478651955351069 |
+
+**Women's health check (2026-10-11):** neither Maynard nor Stein-O'Brien works on women's health. Maynard's program is multi-omics of reward circuitry and genetic risk in post-mortem human brain; the hypothalamic sex-differences project is a Lieber collaboration (Mulvey, Maynard, Hansen). Stein-O'Brien's lab is computational single-cell methods and ALS/FTD variation; no sex or hormone work found. Across the Department of Neuroscience, no lab on women's health was found. Women's health at Hopkins sits in Psychiatry: the Reproductive Mental Health Center (Liisa Hantsoo, PMDD) and postpartum depression epigenetics (Zachary Kaminsky; Sarven Sabunciyan), whose Neuroscience Training Program affiliations are not confirmed. Kaminsky's epigenetic work could suit Jovita's omics skills.
 
 Scope: faculty on the Solomon H. Snyder Department of Neuroscience faculty list (neuroscience.jhu.edu/research/faculty), screened for hormones, sex differences, hypothalamus, metabolism or computational and omics methods that fit Jovita's skills.
 
