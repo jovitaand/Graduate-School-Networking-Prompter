@@ -6,7 +6,7 @@ Drafts (the first two packets were changed at Jovita's request: added "I am also
 | Professor | Gmail draft ID |
 |---|---|
 | Kristen Maynard (Kristen.maynard@libd.org) | r-5281017934614485694 |
-| Genevieve Stein-O'Brien (gsteinobrien@jhmi.edu) | r5286478651955351069 |
+| Genevieve Stein-O'Brien (gsteinobrien@jhmi.edu) | r-5286478651955351069 |
 
 **Women's health check (2026-10-11):** neither Maynard nor Stein-O'Brien works on women's health. Maynard's program is multi-omics of reward circuitry and genetic risk in post-mortem human brain; the hypothalamic sex-differences project is a Lieber collaboration (Mulvey, Maynard, Hansen). Stein-O'Brien's lab is computational single-cell methods and ALS/FTD variation; no sex or hormone work found. Across the Department of Neuroscience, no lab on women's health was found. Women's health at Hopkins sits in Psychiatry: the Reproductive Mental Health Center (Liisa Hantsoo, PMDD) and postpartum depression epigenetics (Zachary Kaminsky; Sarven Sabunciyan), whose Neuroscience Training Program affiliations are not confirmed. Kaminsky's epigenetic work could suit Jovita's omics skills.
 
